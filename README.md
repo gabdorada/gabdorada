@@ -1,7 +1,7 @@
 
 ### Hi, world.
 ```py
-# ADS student @ PUCPR (Brazil)
+# Systems Analysis and Development student @ PUCPR (Brazil)
 # focused on backend development
 
 stack = ["python", "go", "sql", "sh"]
