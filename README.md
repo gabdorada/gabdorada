@@ -1,11 +1,11 @@
 
-### Oi, mundo.
+### Hi, world.
 ```py
-# estudante de ADS na PUCPR.
-# foco em backend.
+# ADS student @ PUCPR (Brazil)
+# focused on backend development
 
 stack = ["python", "go", "sql", "sh"]
-aprendendo = True
+always_learning = True
 ```
 
 <!--
