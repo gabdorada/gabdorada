@@ -1,4 +1,12 @@
-## Hi there 👋
+
+### Oi, mundo.
+```py
+# estudante de ADS na PUCPR.
+# foco em backend.
+
+stack = ["python", "go", "sql", "sh"]
+aprendendo = True
+```
 
 <!--
 **gabdorada/gabdorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
