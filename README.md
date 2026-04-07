@@ -4,7 +4,7 @@
 # Systems Analysis and Development student @ PUCPR (Brazil)
 # focused on backend development
 
-stack = ["python", "django", "sql", "sh"]
+stack = ["python", "fastAPI", "sql", "sh"]
 always_learning = True
 ```
 
