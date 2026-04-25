@@ -2,7 +2,7 @@
 ### Hi, world.
 ```py
 # Systems Analysis and Development student @ PUCPR (Brazil)
-# focused on cloud computing and ai automation
+# Focused on Cloud Computing and AI Automation
 
 stack = ["python", "aws", "sh"]
 always_learning = True
