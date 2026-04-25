@@ -4,7 +4,7 @@
 # Systems Analysis and Development student @PUCPR (Brazil)
 # Focused on Cloud Computing and AI Automation
 
-stack = ["python", "aws", "sh"]
+stack = ["python", "fastapi", "cloud"]
 always_learning = True
 ```
 
