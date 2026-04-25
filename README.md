@@ -1,7 +1,7 @@
 
 ### Hi, world.
 ```py
-# Systems Analysis and Development student @ PUCPR (Brazil)
+# Systems Analysis and Development student @PUCPR (Brazil)
 # Focused on Cloud Computing and AI Automation
 
 stack = ["python", "aws", "sh"]
