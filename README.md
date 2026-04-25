@@ -2,9 +2,9 @@
 ### Hi, world.
 ```py
 # Systems Analysis and Development student @ PUCPR (Brazil)
-# focused on cloud computing and ai automation
+# focused on backend
 
-stack = ["python", "aws", "sql", "sh"]
+stack = ["python", "fastapi", "sql", "sh"]
 always_learning = True
 ```
 
