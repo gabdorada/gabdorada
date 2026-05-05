@@ -1,11 +1,16 @@
 
 ### Hi, world.
+
+
 ```py
 # Systems Analysis and Development student @PUCPR (Brazil)
 # Focused on Cloud Computing and AI Automation
 
-stack = ["python", "aws", "sh"]
-always_learning = True
+class Gabrielly:
+    def __init__(self):
+        self.role = "Backend & Cloud"
+        self.stack = ["Python", "AWS", "Shell"]
+        self.learning = ["Cloud", "Automation", "DevOps"]
 ```
 
 <!--
