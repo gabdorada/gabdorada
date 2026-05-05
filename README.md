@@ -4,11 +4,11 @@
 
 ```py
 # ADS student @PUCPR
-# Focused on Backend, Cloud and Automation
+# Backend, Cloud and Automation
 
 class Gabrielly:
     def __init__(self):
-        self.role = "Backend & Cloud"
+        self.role = "Backend & Cloud Developer"
         self.stack = ["Python", "AWS", "Shell"]
         self.learning = ["Cloud", "Automation", "DevOps"]
 ```
