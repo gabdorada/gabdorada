@@ -3,8 +3,8 @@
 
 
 ```py
-# Systems Analysis and Development student @PUCPR (Brazil)
-# Focused on Cloud Computing and AI Automation
+# ADS student @PUCPR
+# Focused on Backend, Cloud and Automation
 
 class Gabrielly:
     def __init__(self):
