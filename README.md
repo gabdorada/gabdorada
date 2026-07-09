@@ -2,16 +2,17 @@
 ### Hi, world.
 
 
-```py
-
-# Systems Analysis and Development student @PUCPR (Brazil)
-# Focused on Cloud Computing and AI Automation
-
-stack = ["Python", "AWS", "Shell"]
-always_learning = True
-
+```java
+public class Gabrielly {
+    public static void main(String[] args) {
+        String role = "Systems Analysis and Development student @PUCPR (Brazil)";
+        String focus = "Backend Development & Cloud Architecture";
+        
+        String[] stack = {"Java", "Spring Boot", "AWS"};
+        boolean alwaysLearning = true;
+    }
+}
 ```
-
 <!--
 **gabdorada/gabdorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
