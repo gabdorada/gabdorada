@@ -6,10 +6,10 @@ I'm a Systems Analysis and Development student at PUCPR (Brazil), passionate abo
 Currently, I'm focusing on building robust RESTful APIs with Java, Spring Boot, and exploring Cloud Architecture (AWS). Beyond backend systems, I enjoy creating CLI tools with Go in my free time.
 
 - 🕵️ I’m currently learning: **Java for Web, Spring Boot, and AWS**
-- 💬 Ask me about: **Java, Object-Oriented Programming, and CLI applications**
+- 💬 Ask me about: **Java and CLI applications**
 - 📫 How to reach me:
-  - [LinkedIn](https://linkedin.in/gabdorada)
-- ⚡ Fun fact: **CLI enthusiast who loves building neat terminal tools**
+  - [LinkedIn](https://www.linkedin.com/in/gabdorada/)
+- ⚡ Fact: **I have six beautiful cats**
 
 ---
 
