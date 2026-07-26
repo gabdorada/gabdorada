@@ -1,31 +1,18 @@
 
 ### Hi, world.
 
-I'm a Systems Analysis and Development student at PUCPR (Brazil), passionate about backend engineering, clean architecture, and CLI applications.
+I'm a Systems Analysis and Development student at PUCPR (Brazil), passionate about backend engineering, cloud architecture, and CLI applications.
 
-Currently, I'm focusing on building robust RESTful APIs with Java, Spring Boot, and exploring Cloud Architecture (AWS). Beyond backend systems, I enjoy creating CLI tools with Go in my free time.
+Currently, I'm focusing on building robust RESTful APIs with Python and FastAPI, exploring async architecture, automated testing, and containerization. Beyond web backend systems, I enjoy creating CLI tools with Go in my free time.
 
-- 🕵️ I’m currently learning: **Java for Web, Spring Boot, and AWS**
-- 💬 Ask me about: **Java and CLI applications**
+- 🔭 I’m currently learning: **Python, FastAPI, SQLAlchemy, Pytest & Docker**
+- 💬 Ask me about: **Python, Go, and CLI applications**
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/gabdorada/)
 - ⚡ Fact: **I have six beautiful cats**
 
 ---
 
-<!---
-```java
-public class Gabrielly {
-    public static void main(String[] args) {
-        String role = "Systems Analysis and Development student @PUCPR (Brazil)";
-        String focus = "Backend Development & Cloud Architecture";
-        
-        String[] stack = {"Java", "Spring Boot", "AWS"};
-        boolean alwaysLearning = true;
-    }
-}
-```
--->
 <!--
 **gabdorada/gabdorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
