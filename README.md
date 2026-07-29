@@ -3,7 +3,7 @@
 
 I'm a Systems Analysis and Development student at PUCPR (Brazil), passionate about backend engineering, cloud architecture, and CLI applications.
 
-Currently building backend applications with Python and FastAPI, while learning SQLAlchemy, Pytest and Docker.
+Currently, I'm focusing on building robust RESTful APIs with Python and FastAPI, exploring async architecture, automated testing, and containerization. Beyond web backend systems, I enjoy creating CLI tools with Go in my free time.
 
 - 🔭 I’m currently learning: **Python, FastAPI, SQLAlchemy, Pytest & Docker**
 - 💬 Ask me about: **Python, Go, and CLI applications**
