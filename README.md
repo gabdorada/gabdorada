@@ -1,6 +1,19 @@
 
 ### Hi, world.
 
+I'm a Systems Analysis and Development student at PUCPR, passionate about **backend engineering**, system architecture, and building practical applications.
+
+Currently, I'm focusing my journey on learning through hands-on practice — exploring fundamental concepts, APIs, databases, and logic by building real-world projects.
+
+- **Focusing on:** Core backend fundamentals & project-based learning
+- **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gabdorada/)
+- **Fun fact:** I have six beautiful cats
+- **About me:** Passionate about learning and driven by curiosity ✨
+
+---
+
+<!--
+
 I'm a Systems Analysis and Development student at PUCPR (Brazil), passionate about backend engineering, cloud architecture, and CLI applications.
 
 Currently, I'm focusing on building robust RESTful APIs with Python and FastAPI, exploring async architecture, automated testing, and containerization. Beyond web backend systems, I enjoy creating CLI tools with Go in my free time.
@@ -11,9 +24,6 @@ Currently, I'm focusing on building robust RESTful APIs with Python and FastAPI,
   - [LinkedIn](https://www.linkedin.com/in/gabdorada/)
 - ⚡ Fact: **I have six beautiful cats**
 
----
-
-<!--
 **gabdorada/gabdorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
