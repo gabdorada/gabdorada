@@ -10,6 +10,12 @@ Currently, I'm focusing my journey on learning through hands-on practice — exp
 - **Fun fact:** I have six beautiful cats
 - **About me:** Passionate about learning and driven by curiosity ✨
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabdorada/gabdorada/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabdorada/gabdorada/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gabdorada/gabdorada/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 <!--
