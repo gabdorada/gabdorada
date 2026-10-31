@@ -8,6 +8,11 @@ I write at [my blog](https://SEU-BLOG.bearblog.dev) and you can find me on [Link
 
 Always learning. ✨
 
+<h5 align="center">Tech I use and am learning</h5>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,git,linux,sqlite" alt="Tech stack" />
+</p>
 <!--
 **gabdorada/gabdorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
