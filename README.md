@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, World. 
+
+I'm a backend developer in training based in Curitiba, Brazil. I'm studying Systems Analysis and Development (ADS) at PUCPR and I love building command-line tools.
+
+I'm working on [tidybucket-cli](https://github.com/gabdorada/tidybucket-cli): a tiny CLI to organize and summarize S3 buckets, built with Python, Typer, Rich and boto3.
+
+I write at [my blog](https://SEU-BLOG.bearblog.dev) and you can find me on [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL).
+
+Always learning. ✨
 
 <!--
 **gabdorada/gabdorada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
