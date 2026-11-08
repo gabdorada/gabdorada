@@ -2,9 +2,9 @@
 
 I'm a backend developer in training based in Curitiba, Brazil. I'm studying Systems Analysis and Development (ADS) at PUCPR and I love building command-line tools.
 
-I'm working on [fibula-rpg](https://github.com/gabdorada/fibula-rpg): a lofi station for your terminal, built with Python, Typer, and Rich.
+I'm working on [fibula-rpg](https://github.com/gabdorada/fibula-rpg): a rpg game for your terminal, built with Python, Typer, and Rich.
 
-I write at [my blog](https://SEU-BLOG.bearblog.dev) and you can find me on [LinkedIn](https://www.linkedin.com/in/dorada).
+I write at [my blog](https://dorada.bearblog.dev) and you can find me on [LinkedIn](https://www.linkedin.com/in/dorada).
 
 Always learning. ✨
 <!--
